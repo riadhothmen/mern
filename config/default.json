@@ -1,0 +1,5 @@
+{
+    "mongoURL": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "PORT": "5000",
+    "jwtSecret": "sl_myJwtSecret"
+  }
